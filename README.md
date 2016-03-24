@@ -1,13 +1,13 @@
 # DocViewer_MVC_Assignment
 
-System Requirements:
+#####System Requirements:
 
 Visual studio 2015.
 
 Windows 7 or above
 
 
-Configuration Steps:
+#####Configuration Steps:
 
 Following are the steps for application configuration.
 * Download code form Github and unzip it and find folder named “AssignmentDocViewer”.This folder contains complete source code along with solution file.
