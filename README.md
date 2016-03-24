@@ -2,14 +2,13 @@
 
 #####System Requirements:
 
-Visual studio 2015.
-
-Windows 7 or above
+* Visual studio 2015.
+* Windows 7 or above.
 
 
 #####Configuration Steps:
 
-Following are the steps for application configuration.
+Following are the configuration steps.
 * Download code form Github and unzip it and find folder named “AssignmentDocViewer”.This folder contains complete source code along with solution file.
 * Double click the solution file named ‘AssignmentDocViewer.sln’ under folder “AssignmentDocViewer” or launch visual studio 2015 and open solution in it by clicking on File -> Open -> Project/Solution. Then navigate to the solution file and open it.
 * In solution explorer window expand project named “AssignmentDocViewer”. Then go to references and check whether reference of “GroupDocs.Viewer” is missing or not. 
