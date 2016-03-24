@@ -1,4 +1,4 @@
-# DocViewer_MVC_Assignment
+# View documents using GroupDocs.Viewer
 
 #####System Requirements:
 
